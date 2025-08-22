@@ -3,7 +3,8 @@
 A Next.js project to **discover, learn, and manage snake species**.  
 It includes authentication with **NextAuth**, image upload via **imgbb**, and snake data storage in **MongoDB**.  
 
----
+## 🚀 Live Demo  
+🔗 [Snake Knowledge Platform](https://y-gold-gamma.vercel.app/)
 
 ## 🚀 Features
 - 🔐 Google Authentication with NextAuth  
